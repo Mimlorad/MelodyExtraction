@@ -442,7 +442,7 @@ public:
 	MidiOutputComponent midiComp;
 
 	Slider deletionThresSlider, fftScanThresSlider;
-
+// lol peder
 private:
 	dsp::FFT forwardFFT;
 	Image spectrogramImage;
